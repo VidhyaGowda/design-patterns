@@ -6,3 +6,5 @@
 <img width="1680" height="1872" alt="image" src="https://github.com/user-attachments/assets/7772852e-153d-418a-a2e5-5bc7dfc78509" />
 # Factory Pattern
 <img width="1788" height="774" alt="image" src="https://github.com/user-attachments/assets/c2479778-b5f0-4b2a-9970-84a740f657c8" />
+# Adapter Pattern
+<img width="1916" height="1618" alt="image" src="https://github.com/user-attachments/assets/aa937d26-736e-4f85-be32-ad3555647d70" />
